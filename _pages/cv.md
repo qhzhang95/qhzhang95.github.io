@@ -29,6 +29,10 @@ Main research interests
 * Label-free Bioimaging and Deep-tissue Imaging
 * Material Metrology and Defect Inspection
 * Optical Scattering Theory (Classic and Quantum)
+* Dvelopment of the statistical mechanism of optical scattering phenomena, including their wavelength, polarization, spatial distribution and quantum properties;
+* Development of AI+Physics algorithm for scattering related optical sensing and imaging tasks;
+* Development of advanced biomedical sensing and imaging systems for biomedical diagnosis, surgery and therapy。
+
 
 Publications
 ======
