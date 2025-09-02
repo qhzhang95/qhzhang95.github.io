@@ -28,8 +28,8 @@ author:
   bio              : "Research Assistant Professor"
   location         : "Hong Kong SAR, China"
   employer         : "CUHK"
-  uri              : "https://www.bme.cuhk.edu.hk/new/zhangqihang.php"# URL
-  email            : "qhzhang@cuhk.edu.hk" qhzhang@cuhk.edu.hk
+  uri              : "https://www.bme.cuhk.edu.hk/new/zhangqihang.php" # URL
+  email            : "qhzhang@cuhk.edu.hk" #qhzhang@cuhk.edu.hk
 
   # Academic websites
   academia         : # URL
