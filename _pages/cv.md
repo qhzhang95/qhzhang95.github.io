@@ -11,34 +11,24 @@ redirect_from:
 
 Education
 ======
-* Sep. 2018 - Feb. 2023, Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology
-* Sep. 2014 - Jun. 2018, B.S. in Physics, Tsinghua University
+* 09/2018 - 02/2023, Massachusetts Institute of Technology
+  * Ph.D in Electrical Engingeering & Computer Science
+  * Advisor: George Barbastathis
+* 09/2014 - 06/2018, Tshinghua University
+  * B.S. in Physics
+  * Advisor: Yulin Chen & Lexian Yang
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06/2025 - present, Research Assistant Professor, The Chinese University of Hong Kong
+* 12/2023 - 01/2025, Postdoctoral Fellow, Tsinghua University
+* 03/2023 - 11/2023, Postdoctoral Fellow, Singapore-MIT Alliance of Research and Technology
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Main research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Label-free Bioimaging and Deep-tissue Imaging
+* Material Metrology and Defect Inspection
+* Optical Scattering Theory (Classic and Quantum)
 
 Publications
 ======
@@ -57,7 +47,27 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Patents
+======
+[1] 
+[2]
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Honors and awards
+======
+* Shuimu Tsinghua Scholar (2024)
+* Chi-Sun Yeh Prize (2018)
+  (Top undergraduate honor in physics department, Tsinghua University)
+* Outstanding Graduates of Tsinghua University (2018)
+* National Scholarship (2017)
+* Future Scholar Project (2017)
+* Tsinghua Academy program Scholarship (2015 & 2016)
+* Tsinghua Xuetang Talents Program Scholarship (2015 & 2016)
+* Tsinghua University Scholarship For Freshmen (2014)
+* Golden Prize (rank 8) in Chinese Physics Olympiad Game (2013)
+* Best Theory Prize in Chinese Physics Olympiad Game (2013)
+
