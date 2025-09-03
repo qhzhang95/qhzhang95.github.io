@@ -2,7 +2,7 @@
 title: "Decorrelation in Complex Wave Scattering"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2025-04-paper-decor
 #excerpt: 'this is short description in the publication panel.' abstract
 date: 2025-04-29
 #venue: 'Arxiv preprint'
