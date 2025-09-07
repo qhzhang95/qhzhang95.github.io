@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Home"
+title                    : "Qihang Zhang"
 title_separator          : "-"
 name                     : &name "Qihang Zhang"
 description              : &description "personal description"
@@ -84,6 +84,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  patents:
+    title: 'Patents'    
   conferences:
     title: 'Conference Papers'
 

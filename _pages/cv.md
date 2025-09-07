@@ -30,12 +30,23 @@ Main research interests
 * AI+Physics algorithm for scattering related optical sensing and imaging tasks;
 * Advanced optical systems for biomedical and manufacturing applications.
 
+
 Publications
 ======
   <ol>{% for post in site.publications reversed %}
+    {% if post.category == 'manuscripts' %}
     {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ol>
-  
+
+Patents
+======
+  <ol>{% for post in site.publications reversed %}
+    {% if post.category == 'patents' %}
+    {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ol>
+
 Talks
 ======
   <ol>{% for post in site.talks reversed %}
@@ -48,14 +59,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
-Patents
-======
-[1] 
-[2]
-
 Service and leadership
 ======
-* To add
+* Journal reviewer of Photonics Research, Optics Express, Journal of the Optical Society of America A, and Advanced Materials.
 
 Honors and awards
 ======
