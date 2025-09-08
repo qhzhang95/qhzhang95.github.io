@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ------
-* **09/2018 - 02/2023** &ensp; _Ph.D_ in _EECS_, Massachusetts Institute of Technology
+* **09/2018 - 02/2023** &ensp; _Ph.D in EECS_, Massachusetts Institute of Technology
   * Advisor: George Barbastathis
   
-* **09/2014 - 06/2018** &ensp; _B.S._ in _Physics_, Tshinghua University
+* **09/2014 - 06/2018** &ensp; _B.S. in Physics_, Tshinghua University
   * Advisor: Yulin Chen & Lexian Yang
 
 Work experience
