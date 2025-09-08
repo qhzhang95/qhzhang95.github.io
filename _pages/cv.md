@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qihang Zhang‘s resume"
+title: "Qihang Zhang's resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
