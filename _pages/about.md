@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
+
 [Qihang Zhang](https://www.bme.cuhk.edu.hk/new/zhangqihang.php) is a Research Assistant Professor at [Laser Metrology and Biomedicine (LAMB) Lab](https://www.lambcuhk.org/), The Chinese University of Hong Kong. His research interests focus on physical models, advanced AI algorithms and applications of optical scattering phenomena. 
 
 News
