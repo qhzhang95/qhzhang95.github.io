@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Qihang Zhang‘s resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * 09/2018 - 02/2023, Massachusetts Institute of Technology
   * Ph.D in Electrical Engingeering & Computer Science
   * Advisor: George Barbastathis
@@ -19,7 +19,7 @@ Education
   * Advisor: Yulin Chen & Lexian Yang
 
 Work experience
-======
+------
 * 06/2025 - present, Research Assistant Professor, The Chinese University of Hong Kong
 * 12/2023 - 01/2025, Postdoctoral Fellow, Tsinghua University
 * 03/2023 - 11/2023, Postdoctoral Fellow, Singapore-MIT Alliance of Research and Technology
