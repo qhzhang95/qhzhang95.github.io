@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage Qihang Zhang"
+title: "Homepage of Qihang Zhang"
 author_profile: true
 redirect_from: 
   - /about/
