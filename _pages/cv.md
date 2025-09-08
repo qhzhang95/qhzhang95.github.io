@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ------
-* 09/2018 - 02/2023, Ph.D in EECS, MIT
-
-  Advisor: George Barbastathis
+* **09/2018 - 02/2023** &ensp; _Ph.D in EECS_, Massachusetts Institute of Technology
+  * Advisor: George Barbastathis
   
-* 09/2014 - 06/2018, B.S. in Physics, Tshinghua University
-  
-  Advisor: Yulin Chen & Lexian Yang
+* **09/2014 - 06/2018** &ensp; B.S. in Physics, Tshinghua University
+  * Advisor: Yulin Chen & Lexian Yang
 
 Work experience
 ------
-* 06/2025 - present, Research Assistant Professor, The Chinese University of Hong Kong
-* 12/2023 - 01/2025, Postdoctoral Fellow, Tsinghua University
-* 03/2023 - 11/2023, Postdoctoral Fellow, Singapore-MIT Alliance of Research and Technology
+* **06/2025 - present** &ensp; Research Assistant Professor, The Chinese University of Hong Kong
+* **12/2023 - 01/2025** &ensp; Postdoctoral Fellow, Tsinghua University
+* **03/2023 - 11/2023** &ensp; Postdoctoral Fellow, Singapore-MIT Alliance of Research and Technology
 
 Main research interests
 ------
