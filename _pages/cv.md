@@ -25,14 +25,14 @@ Work experience
 * 03/2023 - 11/2023, Postdoctoral Fellow, Singapore-MIT Alliance of Research and Technology
 
 Main research interests
-======
+------
 * The statistical mechanism of optical scattering phenomena, including their wavelength, polarization, spatial distribution and quantum properties;
 * AI+Physics algorithm for scattering related optical sensing and imaging tasks;
 * Advanced optical systems for biomedical and manufacturing applications.
 
 
 Publications
-======
+------
   <ol>{% for post in site.publications reversed %}
     {% if post.category == 'manuscripts' %}
     {% include archive-single-cv.html %}
@@ -40,7 +40,7 @@ Publications
   {% endfor %}</ol>
 
 Patents
-======
+------
   <ol>{% for post in site.publications reversed %}
     {% if post.category == 'patents' %}
     {% include archive-single-cv.html %}
@@ -48,23 +48,23 @@ Patents
   {% endfor %}</ol>
 
 Talks
-======
+------
   <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ol>
   
 Teaching
-======
+------
   <ol>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
 Service and leadership
-======
+------
 * Journal reviewer of Photonics Research, Optics Express, Journal of the Optical Society of America A, and Advanced Materials.
 
 Honors and awards
-======
+------
 * Shuimu Tsinghua Scholar (2024)
 * Chi-Sun Yeh Prize (2018)
   (Top undergraduate honor in physics department, Tsinghua University)
