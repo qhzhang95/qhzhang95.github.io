@@ -73,6 +73,6 @@ Honors and awards
 * Tsinghua Academy program Scholarship (2015 & 2016)
 * Tsinghua Xuetang Talents Program Scholarship (2015 & 2016)
 * Tsinghua University Scholarship For Freshmen (2014)
-* Golden Prize (rank 8) in Chinese Physics Olympiad Game (2013)
-* Best Theory Prize in Chinese Physics Olympiad Game (2013)
+* Golden Prize (Nationwide rank 8) in Chinese Physics Olympiad (CPhO) 全国中学生物理竞赛 (2013)
+* Best Theory Prize in Chinese Physics Olympiad (CPhO) 全国中学生物理竞赛 (2013)
 
