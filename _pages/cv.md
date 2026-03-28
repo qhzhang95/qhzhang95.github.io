@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **2018 - 2023** &ensp; _Ph.D in EECS_, Massachusetts Institute of Technology
+* **2018 - 2023** &ensp; _Ph.D. in EECS_, Massachusetts Institute of Technology
   * Advisor: George Barbastathis
   
 * **2014 - 2018** &ensp; _B.S. in Physics_, Tshinghua University
@@ -24,9 +24,9 @@ Work experience
 
 Main research interests
 ------
-* The statistical mechanism of optical scattering phenomena, including their wavelength, polarization, spatial distribution and quantum properties;
-* AI+Physics algorithm for scattering related optical sensing and imaging tasks;
-* Advanced optical systems for biomedical and manufacturing applications.
+* The statistical mechanism of optical scattering phenomena, including their wavelength, polarization, spatial frequency distribution and quantum properties;
+* AI + Physics algorithm for optical sensing and imaging inverse problems;
+* Advanced optical systems for biomedical imaging, nano-metrology and manufacturing inspection.
 
 
 Publications
@@ -63,9 +63,10 @@ Service and leadership
 
 Honors and awards
 ------
-* Shuimu Tsinghua Scholar (2024)
-* Chi-Sun Yeh Prize (2018)
-  (Top undergraduate honor in physics department, Tsinghua University)
+* Young Scientists Fund, National Natural Science Foundation of China (2024)
+* Shuimu Tsinghua Scholar, Tsinghua University (2024)
+* Chi-Sun Yeh Prize, Tsinghua University (2018)
+  (Top undergraduate honor in physics department)
 * Outstanding Graduates of Tsinghua University (2018)
 * National Scholarship (2017)
 * Future Scholar Project (2017)
