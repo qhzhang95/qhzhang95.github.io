@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---  
 
-[Qihang Zhang](https://www.bme.cuhk.edu.hk/new/zhangqihang.php) is a Research Assistant Professor at [Laser Metrology and Biomedicine (LAMB) Lab](https://www.lambcuhk.org/), The Chinese University of Hong Kong. His research interests focus on AI + Optics, specifically, **computational scattering optics** on biomedical imaging, nanostructure metrology and manufacturing inspection.
+[Qihang Zhang](https://www.bme.cuhk.edu.hk/new/zhangqihang.php) is a Research Assistant Professor at [Laser Metrology and Biomedicine (LAMB) Lab](https://www.lambcuhk.org/), The Chinese University of Hong Kong. His research interests focus on **scattering optical inspection** for biomedical imaging, nanostructure metrology, and manufacturing process control.
+
+His research interests focus on scattering-based optical inspection on biomedical imaging, nanostructure metrology and manufacturing process control.
 
 News
 ------
