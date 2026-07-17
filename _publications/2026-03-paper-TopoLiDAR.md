@@ -8,5 +8,5 @@ date: 2026-03-21
 venue: ' '
 #paperurl: 'https://qhzhang95.github.io/publication/2026-07-paper-TopoLiDAR' #'http://qhzhang95.github.io/files/2025_decor.pdf'
 #link: 'https://arxiv.org/abs/2505.20252'
-citation: 'T. Lei+, X. Lv+, Y. Xue+, G. Wu+, <b>Q. Zhang</b>*, M. Wang, X. Zhang, Z. Wang, C. Cao, X. Gao, Y. Lei, R. Zhou, Y. Li, Q. Gong, D. Zhu*, Y. Xiao*, Y. Hu*.&quot;Unconventional topological electro-optic frequency comb for hyper-parallel high-resolution LiDAR.&quot <i>under review</i>'
+citation: 'T. Lei+, X. Lv+, Y. Xue+, G. Wu+, <b>Q. Zhang</b>*, M. Wang, X. Zhang, Z. Wang, C. Cao, X. Gao, Y. Lei, R. Zhou, Y. Li, Q. Gong, D. Zhu*, Y. Xiao*, Y. Hu*.&quot;Unconventional topological electro-optic frequency comb for hyper-parallel high-resolution LiDAR.&quot; <i>under review</i>'
 --- 
