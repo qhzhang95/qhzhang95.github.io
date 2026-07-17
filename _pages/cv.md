@@ -59,7 +59,7 @@ Teaching
 
 Service and leadership
 ------
-* Journal reviewer of Photonics Research, Optics Express, Journal of the Optical Society of America A, and Advanced Materials.
+* Journal reviewer of Physical Review Letters, Photonics Research, Physical Review E, Optics Express, Physical Review Applied, Journal of the Optical Society of America A, and Advanced Materials.
 
 Honors and awards
 ------
@@ -70,9 +70,6 @@ Honors and awards
 * Outstanding Graduates of Tsinghua University (2018)
 * National Scholarship (2017)
 * Future Scholar Project (2017)
-* Tsinghua Academy program Scholarship (2015 & 2016)
-* Tsinghua Xuetang Talents Program Scholarship (2015 & 2016)
-* Tsinghua University Scholarship For Freshmen (2014)
 * Golden Prize (Nationwide rank 8) in Chinese Physics Olympiad (CPhO) 全国中学生物理竞赛 (2013)
 * Best Theory Prize in Chinese Physics Olympiad (CPhO) 全国中学生物理竞赛 (2013)
 
